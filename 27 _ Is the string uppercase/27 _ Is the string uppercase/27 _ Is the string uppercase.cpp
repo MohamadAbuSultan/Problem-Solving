@@ -7,9 +7,7 @@ using namespace std;
 bool is_uppercase(const string& s) {
 	for (int i = 0; i < s.length(); i++)
 	{
-		if (isupper(s[i]))
-			continue;
-		else if (islower(s[i]))
+		if (islower(s[i]))
 			return false;
 	}
 	return true;
