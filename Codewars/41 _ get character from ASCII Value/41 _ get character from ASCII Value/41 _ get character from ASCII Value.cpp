@@ -3,8 +3,7 @@
 #include <iostream>
 
 char get_char(int i) {
-	char c = (char)i;
-	return c;
+	return char(i);
 }
 
 int main()
