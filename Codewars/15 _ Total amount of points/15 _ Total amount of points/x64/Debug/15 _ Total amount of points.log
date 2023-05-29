@@ -1,3 +1,0 @@
-﻿  15 _ Total amount of points.cpp
-E:\My_Learning\Problem-Solving\15 _ Total amount of points\15 _ Total amount of points\15 _ Total amount of points.cpp(8,12): error C2513: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>': no variable declared before '='
-E:\My_Learning\Problem-Solving\15 _ Total amount of points\15 _ Total amount of points\15 _ Total amount of points.cpp(9,25): error C2065: 's': undeclared identifier
