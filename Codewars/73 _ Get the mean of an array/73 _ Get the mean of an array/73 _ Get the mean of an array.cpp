@@ -6,12 +6,11 @@ using namespace std;
 
 int get_average(vector <int> marks)
 {
-    int result = 0, counter = 0;
+    int result = 0;
     for (int i = 0; i < marks.size(); i++) {
         result += marks[i];
-        counter++;
     }
-    return result / counter;
+    return result / marks.size();
 }
 
 int main()

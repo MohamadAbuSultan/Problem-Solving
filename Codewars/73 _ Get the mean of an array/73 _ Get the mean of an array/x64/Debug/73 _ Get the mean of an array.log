@@ -1,2 +1,3 @@
 ﻿  73 _ Get the mean of an array.cpp
+E:\My_Learning\Problem-Solving\Codewars\73 _ Get the mean of an array\73 _ Get the mean of an array\73 _ Get the mean of an array.cpp(13,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   73 _ Get the mean of an array.vcxproj -> E:\My_Learning\Problem-Solving\Codewars\73 _ Get the mean of an array\x64\Debug\73 _ Get the mean of an array.exe
