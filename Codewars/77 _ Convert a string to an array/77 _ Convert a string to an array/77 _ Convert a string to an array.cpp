@@ -24,4 +24,7 @@ vector<string> string_to_array(const string& String) {
 int main()
 {
     vector<string> result = string_to_array("some value");
+    for (int i = 0; i < result.size(); i++) {
+        cout << result[i] << " ";
+    }
 }

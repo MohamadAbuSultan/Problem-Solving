@@ -34,6 +34,9 @@ vector<int> digitize(unsigned long n)
 
 int main()
 {
-	digitize(12345);
+	vector<int> result = digitize(12345);;
+	for (int i = 0; i < result.size(); i++) {
+		cout << result[i] << " ";
+	}
 }
 

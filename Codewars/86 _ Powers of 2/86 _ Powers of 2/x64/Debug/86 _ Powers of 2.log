@@ -1,0 +1,7 @@
+﻿  86 _ Powers of 2.cpp
+E:\My_Learning\Problem-Solving\Codewars\86 _ Powers of 2\86 _ Powers of 2\86 _ Powers of 2.cpp(11,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint64_t
+          ]
+  86 _ Powers of 2.vcxproj -> E:\My_Learning\Problem-Solving\Codewars\86 _ Powers of 2\x64\Debug\86 _ Powers of 2.exe
