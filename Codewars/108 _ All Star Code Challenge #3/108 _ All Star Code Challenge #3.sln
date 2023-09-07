@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "108 _ All Star Code Challenge #3", "108 _ All Star Code Challenge #3\108 _ All Star Code Challenge #3.vcxproj", "{94C8C172-A53D-4F37-A87D-BA1B127D5119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Debug|x64.ActiveCfg = Debug|x64
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Debug|x64.Build.0 = Debug|x64
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Debug|x86.ActiveCfg = Debug|Win32
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Debug|x86.Build.0 = Debug|Win32
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Release|x64.ActiveCfg = Release|x64
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Release|x64.Build.0 = Release|x64
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Release|x86.ActiveCfg = Release|Win32
+		{94C8C172-A53D-4F37-A87D-BA1B127D5119}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262BF4DB-2534-4E83-B77C-FF9A60A3AD82}
+	EndGlobalSection
+EndGlobal
