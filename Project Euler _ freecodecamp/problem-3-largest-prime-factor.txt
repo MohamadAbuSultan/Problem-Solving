@@ -1,0 +1,22 @@
+function largestPrimeFactor(number) {
+  let result = [];
+  let number2 = 1; // Initialize to 1
+
+  if (number < 2) return false; // Check if number is less than or equal to 1
+
+  for (let i = 2; i <= number; i++) {
+    while (number % i === 0) {
+      result.push(i); // Add i as a prime factor
+      number /= i;   // Divide number by i to reduce it
+    }
+  }
+
+  for (let i = 0; i < result.length; i++) {
+    number2 *= result[i]; // Multiply by prime factors
+  }
+
+  return Math.max(...result); // Return the largest prime factor
+}
+
+const result = largestPrimeFactor(13195);
+console.log(result); // Output: 29
