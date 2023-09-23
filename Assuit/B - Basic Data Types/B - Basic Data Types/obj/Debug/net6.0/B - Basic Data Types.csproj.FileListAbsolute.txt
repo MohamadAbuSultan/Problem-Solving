@@ -1,0 +1,14 @@
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\bin\Debug\net6.0\B - Basic Data Types.exe
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\bin\Debug\net6.0\B - Basic Data Types.deps.json
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\bin\Debug\net6.0\B - Basic Data Types.runtimeconfig.json
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\bin\Debug\net6.0\B - Basic Data Types.dll
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\bin\Debug\net6.0\B - Basic Data Types.pdb
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.AssemblyInfoInputs.cache
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.AssemblyInfo.cs
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.csproj.CoreCompileInputs.cache
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.dll
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\refint\B - Basic Data Types.dll
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.pdb
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\B - Basic Data Types.genruntimeconfig.cache
+D:\My_Learning\Problem-Solving\Assuit\B - Basic Data Types\B - Basic Data Types\obj\Debug\net6.0\ref\B - Basic Data Types.dll

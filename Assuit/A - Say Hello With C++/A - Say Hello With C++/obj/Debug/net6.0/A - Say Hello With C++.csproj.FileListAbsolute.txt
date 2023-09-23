@@ -1,0 +1,14 @@
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\bin\Debug\net6.0\A - Say Hello With C++.exe
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\bin\Debug\net6.0\A - Say Hello With C++.deps.json
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\bin\Debug\net6.0\A - Say Hello With C++.runtimeconfig.json
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\bin\Debug\net6.0\A - Say Hello With C++.dll
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\bin\Debug\net6.0\A - Say Hello With C++.pdb
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.AssemblyInfoInputs.cache
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.AssemblyInfo.cs
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.csproj.CoreCompileInputs.cache
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.dll
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\refint\A - Say Hello With C++.dll
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.pdb
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\A - Say Hello With C++.genruntimeconfig.cache
+D:\My_Learning\Problem-Solving\Assuit\A - Say Hello With C++\A - Say Hello With C++\obj\Debug\net6.0\ref\A - Say Hello With C++.dll
