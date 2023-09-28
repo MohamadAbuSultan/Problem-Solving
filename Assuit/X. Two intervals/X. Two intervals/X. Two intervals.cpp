@@ -1,22 +1,11 @@
-
+#include<cmath>
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
-	long long L1, R1, L2, R2;
-	cin >> L1 >> R1 >> L2 >> R2;
-	if ((R1 >= L2 && L1 < L2) && R1 < R2)
-		cout << L2 << " " << R1;
-	else if (L2 > R1 || L1 > R2)
-		cout << -1;
-	else if (R1 >= R2 && L1 >= L2)
-		cout << L1 << " " << R2;
-	else if (L2 < L1 && R2 > R1)
-		cout << L1 << " " << R1;
-	else if (L2 > L1 && R1 > R2)
-		cout << L2 << " " << R2;
-	else
-		cout << L2 << " " << R1;
+    long long l1, r1, l2, r2;
+    cin >> l1 >> r1 >> l2 >> r2;
+    if (r1 < l2 || r2 < l1)
+        cout << "-1" << endl;
+    else cout << max(l1, l2) << " " << min(r1, r2) << endl;
 }

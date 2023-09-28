@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Z. Hard Compare", "Z. Hard Compare\Z. Hard Compare.vcxproj", "{454422B7-09A4-4902-A04B-8732154888E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454422B7-09A4-4902-A04B-8732154888E9}.Debug|x64.ActiveCfg = Debug|x64
+		{454422B7-09A4-4902-A04B-8732154888E9}.Debug|x64.Build.0 = Debug|x64
+		{454422B7-09A4-4902-A04B-8732154888E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{454422B7-09A4-4902-A04B-8732154888E9}.Debug|x86.Build.0 = Debug|Win32
+		{454422B7-09A4-4902-A04B-8732154888E9}.Release|x64.ActiveCfg = Release|x64
+		{454422B7-09A4-4902-A04B-8732154888E9}.Release|x64.Build.0 = Release|x64
+		{454422B7-09A4-4902-A04B-8732154888E9}.Release|x86.ActiveCfg = Release|Win32
+		{454422B7-09A4-4902-A04B-8732154888E9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCEC2297-583D-439F-98F0-BBC89E054255}
+	EndGlobalSection
+EndGlobal
