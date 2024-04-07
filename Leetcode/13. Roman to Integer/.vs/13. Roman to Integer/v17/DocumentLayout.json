@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Problem-Solving\\Leetcode\\13. Roman to Integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1510CF9E-A781-4EEB-A0A7-C723A268751E}|13. Roman to Integer\\13. Roman to Integer.vcxproj|D:\\My_Learning\\Problem-Solving\\Leetcode\\13. Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1510CF9E-A781-4EEB-A0A7-C723A268751E}|13. Roman to Integer\\13. Roman to Integer.vcxproj|solutionrelative:13. Roman to Integer\\13. Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13. Roman to Integer.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Problem-Solving\\Leetcode\\13. Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.cpp",
+              "RelativeDocumentMoniker": "13. Roman to Integer\\13. Roman to Integer.cpp",
+              "ToolTip": "D:\\My_Learning\\Problem-Solving\\Leetcode\\13. Roman to Integer\\13. Roman to Integer\\13. Roman to Integer.cpp",
+              "RelativeToolTip": "13. Roman to Integer\\13. Roman to Integer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T12:56:06.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
