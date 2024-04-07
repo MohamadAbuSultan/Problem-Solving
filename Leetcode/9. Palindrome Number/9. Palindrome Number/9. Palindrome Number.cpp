@@ -60,6 +60,24 @@ public:
 	}
 };
 
+//  from chatgpt : Approach 3: Comparing Digits
+bool isPalindrome(int x) {
+    if (x < 0) {
+        return false;
+    }
+    string str = to_string(x);
+    // Compare digits at corresponding positions
+    int left = 0, right = str.length() - 1;
+    while (left < right) {
+        if (str[left] != str[right]) {
+            return false;
+        }
+        left++;
+        right--;
+    }
+    return true;
+}
+
 int main()
 {
 	cout << isPalindrome(-121) << endl;
