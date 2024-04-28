@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Problem-Solving\\Leetcode\\66. Plus One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025590C0-D835-4CF4-827C-C0B23C652734}|66. Plus One\\66. Plus One.vcxproj|D:\\My_Learning\\Problem-Solving\\Leetcode\\66. Plus One\\66. Plus One\\66. Plus One.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{025590C0-D835-4CF4-827C-C0B23C652734}|66. Plus One\\66. Plus One.vcxproj|solutionrelative:66. Plus One\\66. Plus One.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "66. Plus One.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Problem-Solving\\Leetcode\\66. Plus One\\66. Plus One\\66. Plus One.cpp",
+              "RelativeDocumentMoniker": "66. Plus One\\66. Plus One.cpp",
+              "ToolTip": "D:\\My_Learning\\Problem-Solving\\Leetcode\\66. Plus One\\66. Plus One\\66. Plus One.cpp",
+              "RelativeToolTip": "66. Plus One\\66. Plus One.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T18:41:10.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
