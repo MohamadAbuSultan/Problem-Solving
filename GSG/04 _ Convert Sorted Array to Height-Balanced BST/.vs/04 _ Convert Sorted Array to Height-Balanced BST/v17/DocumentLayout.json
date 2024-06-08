@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Problem-Solving\\GSG\\04 _ Convert Sorted Array to Height-Balanced BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079E7E8D-9912-4D13-883C-D30E84240980}|04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.vcxproj|D:\\My_Learning\\Problem-Solving\\GSG\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E7E8D-9912-4D13-883C-D30E84240980}|04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.vcxproj|solutionrelative:04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04 _ Convert Sorted Array to Height-Balanced BST.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Problem-Solving\\GSG\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp",
+              "RelativeDocumentMoniker": "04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp",
+              "ToolTip": "D:\\My_Learning\\Problem-Solving\\GSG\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp",
+              "RelativeToolTip": "04 _ Convert Sorted Array to Height-Balanced BST\\04 _ Convert Sorted Array to Height-Balanced BST.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T12:16:58.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

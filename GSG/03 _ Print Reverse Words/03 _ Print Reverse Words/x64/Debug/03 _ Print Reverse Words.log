@@ -1,0 +1,5 @@
+﻿  03 _ Print Reverse Words.cpp
+D:\My_Learning\Problem-Solving\GSG\03 _ Print Reverse Words\03 _ Print Reverse Words\03 _ Print Reverse Words.cpp(10,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\My_Learning\Problem-Solving\GSG\03 _ Print Reverse Words\03 _ Print Reverse Words\03 _ Print Reverse Words.cpp(15,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\My_Learning\Problem-Solving\GSG\03 _ Print Reverse Words\03 _ Print Reverse Words\03 _ Print Reverse Words.cpp(19,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  03 _ Print Reverse Words.vcxproj -> D:\My_Learning\Problem-Solving\GSG\03 _ Print Reverse Words\x64\Debug\03 _ Print Reverse Words.exe

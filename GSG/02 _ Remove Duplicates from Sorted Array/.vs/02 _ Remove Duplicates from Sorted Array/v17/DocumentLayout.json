@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Problem-Solving\\GSG\\02 _ Remove Duplicates from Sorted Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4174310C-5249-48A6-AAD5-C82EED064E4B}|02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.vcxproj|D:\\My_Learning\\Problem-Solving\\GSG\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4174310C-5249-48A6-AAD5-C82EED064E4B}|02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.vcxproj|solutionrelative:02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "02 _ Remove Duplicates from Sorted Array.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Problem-Solving\\GSG\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp",
+              "RelativeDocumentMoniker": "02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp",
+              "ToolTip": "D:\\My_Learning\\Problem-Solving\\GSG\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp",
+              "RelativeToolTip": "02 _ Remove Duplicates from Sorted Array\\02 _ Remove Duplicates from Sorted Array.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T01:25:01.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
