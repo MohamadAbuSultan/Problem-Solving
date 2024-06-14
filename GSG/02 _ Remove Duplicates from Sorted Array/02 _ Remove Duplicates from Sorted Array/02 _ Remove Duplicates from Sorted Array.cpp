@@ -13,6 +13,17 @@ vector<int>	removeDuplicates(vector<int> duplicatedNumbers) {
     return distinctNumbers;
 }
 
+int countUnique(vector<int> duplicatedNumbers) {
+    if (duplicatedNumbers.empty()) return 0;
+
+    int uniqueCount = 1;  // Start with the first element as unique
+    for (int i = 1; i < duplicatedNumbers.size(); i++) {
+        if (duplicatedNumbers[i] != duplicatedNumbers[i - 1])
+            uniqueCount++;
+    }
+    return uniqueCount;
+}
+
 int main()
 {
     vector<int> duplicatedNumbers = { 0,0,1,1,2,2,3,3,4,4,5,5,5,6,6,6 };
@@ -26,6 +37,9 @@ int main()
         }
     }
     cout << endl;
+
+    int uniqueCount = countUnique(duplicatedNumbers);
+    cout << "Number of unique elements: " << uniqueCount << endl;
 
     return 0;
 }
