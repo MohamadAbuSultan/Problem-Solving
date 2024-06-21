@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Problem-Solving\\Assuit\\week 2\\Y. Easy Fibonacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C94C36-FB3C-4769-B5C5-A0BCD125B716}|Y. Easy Fibonacci\\Y. Easy Fibonacci.vcxproj|D:\\My_Learning\\Problem-Solving\\Assuit\\week 2\\Y. Easy Fibonacci\\Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62C94C36-FB3C-4769-B5C5-A0BCD125B716}|Y. Easy Fibonacci\\Y. Easy Fibonacci.vcxproj|solutionrelative:Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Y. Easy Fibonacci.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Problem-Solving\\Assuit\\week 2\\Y. Easy Fibonacci\\Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp",
+              "RelativeDocumentMoniker": "Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp",
+              "ToolTip": "D:\\My_Learning\\Problem-Solving\\Assuit\\week 2\\Y. Easy Fibonacci\\Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp",
+              "RelativeToolTip": "Y. Easy Fibonacci\\Y. Easy Fibonacci.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T14:16:43.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
