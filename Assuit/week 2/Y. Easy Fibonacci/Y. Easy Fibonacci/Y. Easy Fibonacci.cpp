@@ -2,21 +2,26 @@
 
 using namespace std;
 
-int main()
-{
-	int N, sum = 0;
-	cin >> N;
+int main() {
+    int N;
+    cin >> N;
 
-	int number1 = 0, number2 = 1;
-	for (int i = 0; i < N - 1; i++)
-	{
-		if (i == 0) {
-			cout << number1 << " " << number2;
-			continue;
-		}
-		sum = number1 + number2;
-		cout << " " << sum;
-		number1 = number2;
-		number2 = sum;
-	}
+    int number1 = 0, number2 = 1;
+    if (N == 1) {
+        cout << number1;
+    }
+    else if (N == 2) {
+        cout << number1 << " " << number2;
+    }
+    else {
+        cout << number1 << " " << number2 << " ";
+        for (int i = 2; i < N; i++) {
+            int sum = number1 + number2;
+            cout << sum << " ";
+            number1 = number2;
+            number2 = sum;
+        }
+    }
+
+    return 0;
 }
