@@ -7,14 +7,35 @@ using namespace std;
 int missingNumber(vector<int>& nums) {
     int n = nums.size();
     int result = 0;
-    for (int i = 1; i <= n; i++) {
-        result = result ^ i;
+
+    sort(nums.begin(), nums.end());
+
+    vector<int> nums2;
+
+    for (int i = nums.begin(); i < nums.end(); i++)
+    {
+        nums2.push_back(i);
     }
-    for (int i = 0; i < nums.size(); i++) {
-        result = result ^ nums[i];
+
+    for (int i = 0; i < nums.size(); i++)
+    {
+        nums[i] ^ nums2[i];
     }
-    return result;
+
+    return 0;
 }
+
+//int missingNumber(vector<int>& nums) {
+//    int n = nums.size();
+//    int result = 0;
+//    for (int i = 1; i <= n; i++) {
+//        result = result ^ i;
+//    }
+//    for (int i = 0; i < nums.size(); i++) {
+//        result = result ^ nums[i];
+//    }
+//    return result;
+//}
 
 //int missingNumber(vector<int>& nums) {
 //    int n = nums.size();
