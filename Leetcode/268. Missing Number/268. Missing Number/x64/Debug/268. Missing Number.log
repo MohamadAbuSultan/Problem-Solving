@@ -1,0 +1,3 @@
+﻿  268. Missing Number.cpp
+D:\My_Learning\Problem-Solving\Leetcode\268. Missing Number\268. Missing Number\268. Missing Number.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  268. Missing Number.vcxproj -> D:\My_Learning\Problem-Solving\Leetcode\268. Missing Number\x64\Debug\268. Missing Number.exe
